@@ -1,5 +1,7 @@
 # Java Thread 와 Virtual Thread
 
+> (참고) 소스는 테스트코드로 작성되어있습니다.
+
 ## Thread
 
 - [스레드 기본 사용법](app/src/test/java/practice/virtual/thread/ABasicPlatformThreadTest.java) 
